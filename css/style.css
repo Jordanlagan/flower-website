@@ -1,0 +1,14 @@
+.brand {
+    padding: 20px 0px 10px 0px;
+    border-radius: 2%;
+    box-shadow: 6px 4px 5px rgba(26, 26, 26, .25);
+    background-image: url("http://www.maisonterre.net/wp-content/uploads/2013/02/chrysanthemum-white-photo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.divider {
+    margin: 15px auto 3px;
+    max-width: 250px;
+    border-color: #999999;
+}
